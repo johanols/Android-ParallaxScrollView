@@ -6,7 +6,7 @@ A Parallax [ScrollView](http://developer.android.com/reference/android/widget/Sc
 ## Integration
 Integrating is as easy as replacing a ScrollView with the ParallaxScrollView and setting a view reference.
 
-    <se.jmvo.widget.
+    <se.jmvo.widget.ParallaxScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fillViewport="true"
